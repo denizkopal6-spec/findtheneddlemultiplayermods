@@ -1,0 +1,106 @@
+Find The Needle
+Copyright (c) 2026 FindTheNeedleDev. All rights reserved.
+
+YOUR LICENCE
+The game is licensed to you, not sold. You may play it for personal,
+non-commercial use. We keep all rights we do not give you here.
+
+WHAT YOU MAY NOT DO
+You may not sell, rent, copy, share or publish the game, a changed version of
+it, or any of its code, models, textures, sounds or music, except as the mod
+rules below allow.
+
+MODS
+If you own the full game, you may make mods and share them for free. Mods may
+not be sold or put behind a payment, but you may accept donations. A mod must
+not work without the full game. It may include only the small parts of the
+game's files it cannot work without, and no one else's work without their
+permission. Mods are unofficial, must say so, and are used at your own risk. We
+may ask for a mod to be removed.
+
+VIDEOS AND STREAMS
+You may make videos and streams of the game and earn money from them. You may
+not share the game's sounds, music or art separately. We may withdraw this
+permission at any time and have any video we consider inappropriate taken down.
+
+ENDING THIS LICENCE
+If you break these rules, we may end your licence and have copies removed.
+Nothing here removes any rights the law gives you.
+
+CONTACT
+  YouTube  https://www.youtube.com/@FindTheNeedleDev
+  X        https://x.com/haydeveloper
+  Discord  https://discord.gg/MqcvCz8eyG
+
+
+Third-party components
+----------------------
+
+  Portions of this software are copyright (c) The FreeType Project
+  (www.freetype.org). All rights reserved.
+
+  Mbed TLS: Apache License 2.0, https://www.apache.org/licenses/LICENSE-2.0
+
+
+3D models, CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+All modified.
+-------------------------------------------------------------------
+
+  ljungman, https://sketchfab.com/3d-models/wheat-1e4643b88a1f4683a9765287ff2871cb
+  Krag Studio, https://www.fab.com/listings/1289e8e0-bff6-4a70-a832-49c6215921f8
+  martin.constable, https://sketchfab.com/3d-models/work-lamps-3b644c9290264fb185ab12f5a7b3b716
+  Dasamura, https://sketchfab.com/3d-models/medieval-wooden-chest-51a109923dcc4849aa1b5b02c87ce26a
+  nokillnando, https://sketchfab.com/3d-models/b228a29fa84544c2be501c295653ffe7
+  carolinegiu, https://sketchfab.com/3d-models/sand-shovel-b7c663b8fe904d3b86b0ab575d0a6e6d
+  Mehdi Shahsavan, https://sketchfab.com/3d-models/wheelbarrow-13-mb-4bc60cee597d4330998d411d71ac58e3
+  luicost01, https://sketchfab.com/3d-models/low-poly-portable-metal-detector-f86fc5a64c1d495a8355e8ee1c489235
+  morgothpalantir, https://sketchfab.com/3d-models/high-poly-broom-d1bcd0d29de44562a5b0c9f2407fdb71
+  Lodgelus, https://sketchfab.com/3d-models/pitchfork-c8d37a31d890495aba98c435136b3301
+  faroface, https://sketchfab.com/3d-models/toon-vacuum-cleaner-e3d6cd363f534ff993ba2bc2fb2215cd
+  spicymeatballs645, https://sketchfab.com/3d-models/zippo-lighter-a3900690b1914f75b476d0d72253bd5d
+  ayumi ikeda, https://sketchfab.com/3d-models/safety-pins-515f811d9796446eae2269ee676137f7
+  chrisg4919, Rusty Old Oil Lantern, https://sketchfab.com/3d-models/rusty-old-oil-lantern-de28cba29f58414c914298f648da90bf
+  Melon Polygons, Watering Can, https://sketchfab.com/3d-models/watering-can-c24d4602e52544feaa37f23c7bd695f9
+  Clockwork Creations, Burlap Sack, https://sketchfab.com/3d-models/burlap-sack-e3b01fcc08e745758e65b1a997d52bf2
+  CoolGuywhodosevehicles, Jetpack, https://sketchfab.com/3d-models/jetpack-d0fdf87da8fa4c36a7678df9966432bc
+  dharshith, Miltary Helicopter, https://sketchfab.com/3d-models/miltary-helicopter-678d27fcce2a42cdac810dedf3a4e7a6
+  Tony Flanagan, Orc Brute - Animated, https://www.fab.com/listings/05956f42-f048-4da6-92cd-6d1dbbbc298c
+  Tony Flanagan, The Doctor/Torturer - Animated, https://www.fab.com/listings/032542ba-fb0d-48f4-89f2-a804a7fcd33c
+  louis-muir, Step Ladder, https://sketchfab.com/3d-models/step-ladder-670ef4373d544ea5ab577ef00161ffc3
+  victorberdugo1, Feathers, https://sketchfab.com/3d-models/feathers-c987c56694a44559b75ed66429b04ee4
+  incg5764, Strong Medieval Anvil, https://sketchfab.com/3d-models/ee9c56f809ce4c6fb4c02b42673dc9e1
+  Osian CG, Small Modular Pipes (Copper), https://sketchfab.com/3d-models/02a9298f15bf452993a60b155d29b532
+  takeboncog, Low poly wrench, https://sketchfab.com/3d-models/2734161713be4f97b9aa88c7c39e9e0a
+  3000volt, Horseshoe, https://sketchfab.com/3d-models/63d273f656f048039b7481c6cf5818a4
+  Vitor.GomesPT, LP_Copper_Mug, https://sketchfab.com/3d-models/b601de6f55d24f8ba52eeb335b395f80
+  Léonard_Doye (Leoskateman), Rusty Metal Container, https://sketchfab.com/3d-models/54322cbebe084f07ac9cfc5faa800d9f
+  dabori, Heap of chains with dangled end, https://sketchfab.com/3d-models/93686a8926cd4de6a6655ffc179fafb4
+  Ruslan Malovsky, Gear Low-poly Free, https://sketchfab.com/3d-models/44a720424b444d419264cf39a2e8fa23
+
+
+MIT licence
+-----------
+
+  Copyright (c) 2014-present Godot Engine contributors.
+  Copyright (c) 2007-2014 Juan Linietsky, Ariel Manzur.
+  Copyright (c) 2023-2026 Cory Petkovsek, Roope Palmroos, and Contributors.
+  Copyright (c) Yui Kinomoto (@arlez80).
+  Copyright (c) 2002-2020 Lee Salzman.
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
